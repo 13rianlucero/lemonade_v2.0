@@ -1134,7 +1134,8 @@ input, select, textarea {
 			-webkit-transition-delay: 0.75s;
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
-			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../images/overlay.png");
+			/* background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../images/overlay.png"); */
+			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../gifs/sparkling.gif");
 			background-size: auto,
  256px 256px;
 			background-position: center,
@@ -1153,8 +1154,32 @@ input, select, textarea {
 			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-			/* background-image: url("../../images/bg.jpg"); */
-			background-image: url("https://images.squarespace-cdn.com/content/v1/5b1a625de749408826ca910a/1602806368690-L4679261O98DXCLE7ZXZ/lemonade_websitecover.gif");
+			/* background-image: url("../../images/space-clouds.jpeg"); */
+			/* background-image: url("../../gifs/baybridge.gif"); */
+			/* background-image: url("../../gifs/cat-chase-dog.gif"); */
+			/* background-image: url("../../gifs/city4.gif"); */
+			/* background-image: url("../../gifs/city5.gif"); */
+			/* background-image: url("../../gifs/computer.gif"); */
+			/* background-image: url("../../gifs/daily-bugle.gif"); */
+			/* background-image: url("../../gifs/for-hire.gif"); */
+			/* background-image: url("../../gifs/gal.gif"); */
+			/* background-image: url("../../gifs/helloworld.gif"); */
+			/* background-image: url("../../gifs/home.gif"); */
+			/* background-image: url("../../gifs/kenobi-vs-maul.gif"); */
+			/* background-image: url("../../gifs/long-distance.gif"); */
+			/* background-image: url("../../gifs/moving-landscape2.gif"); */
+			/* background-image: url("../../gifs/mu.idea.gif"); */
+			/* background-image: url("../../gifs/nature.gif"); */
+			/* background-image: url("../../gifs/rain.gif"); */
+			background-image: url("../../gifs/sparkling.gif");
+			/* background-image: url("../../gifs/steam.gif"); */
+			/* background-image: url("../../gifs/sunset.gif"); */
+			/* background-image: url("../../gifs/undersea.gif"); */
+			/* background-image: url("../../gifs/vw-bus.gif"); */
+			/* background-image: url("../../gifs/waiting.gif"); */
+			/* background-image: url("../../gifs/work.gif"); */
+			/* background-image: url("../../gifs/work2.gif"); */
+			/* background-image: url("https://images.squarespace-cdn.com/content/v1/5b1a625de749408826ca910a/1602806368690-L4679261O98DXCLE7ZXZ/lemonade_websitecover.gif"); */
 			background-position: center;
 			background-size: cover;
 			background-repeat: no-repeat;
