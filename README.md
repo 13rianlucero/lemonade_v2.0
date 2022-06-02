@@ -8,20 +8,17 @@
 # lemonade_v2.0
 - Hosted Live via Netlify: **[lemonadev2](https://lemonadev2.netlify.app/)**
 - Site serves as a place for me to try out different ideas. So, it will likely evolve visually over time.                
-- [#Other Web Projects](https://github.com/13rianlucero/lemonade_v2.0/main/README.md/#other-web-projects)
-- [#My Github Stats](https://github.com/13rianlucero/lemonade_v2.0/main/README.md#my-github-stats)
-- [#Contact Information & Social Media Handles](https://github.com/13rianlucero/lemonade_v2.0/main/README.md#contact-info--social-media-handles)
 
-## Other Web projects:
-Summer 2022
+## Other Web Projects:
+***Summer 2022***
  • [TuneFork](https://tunefork.netlify.app/)
  • [UFC Discord Bot](https://github.com/quentinmay/ufc-bot)
  
-Spring 2022
+***Spring 2022***
  • [Lemonade](https://1emonade.netlify.app/)
  • [Lemonade v2.0](https://lemonadev2.netlify.app/) 
  
-Fall 2021
+***Fall 2021***
  • [Quiz Central](https://personality-quiz-projec.web.app/index.html)
  • [Covid-19 Dashboard](https://vanilla-covid-dashboard.netlify.app/)
  • [BL \| Home](https://13rianlucero.github.io/)
