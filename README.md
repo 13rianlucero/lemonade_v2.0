@@ -1,11 +1,11 @@
 <header>
  <h1 align="left">lemonade_v2.0</h1>
- <p align="center">
-  <img src="[https://komarev.com/ghpvc/?username=lemonadev2&label=Page%20views&color=0e75b6&style=flat](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)" alt="lemonadev2" />
-  <img src="[https://komarev.com/ghpvc/?username=lemonadev2&label=Page%20views&color=0e75b6&style=flat](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)" alt="lemonadev2" />
-  <img src="[https://komarev.com/ghpvc/?username=lemonadev2&label=Page%20views&color=0e75b6&style=flat](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)" alt="lemonadev2" />
-  <img src="[https://komarev.com/ghpvc/?username=lemonadev2&label=Page%20views&color=0e75b6&style=flat](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)" alt="lemonadev2" />
-  <img src="[https://komarev.com/ghpvc/?username=lemonadev2&label=Page%20views&color=0e75b6&style=flat](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=whit)" alt="lemonadev2" />
+ <p align="left">
+  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="lemonadev2" />
+  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="lemonadev2" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="lemonadev2" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="lemonadev2" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="lemonadev2" />
  </p>
  
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=lemonadev2&label=Page%20views&color=0e75b6&style=flat" alt="lemonadev2" /> </p>
@@ -29,10 +29,10 @@
  • [BL \| Home](https://13rianlucero.github.io/)
  
 # 
-<p align="center">
+<p align="left">
 <a href="https://13rianlucero.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/13rianlucero/13rianlucero.github.io/0994a793c0de804a83e8792e21ed78e8bc882fbc/images/brian/bl-logo.svg" alt="BL | Home"/></a>
 </p>
-<p align="center">
+<p align="left">
  <img src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" height=100px alt="html" style="vertical-align:top;margin:3px">
  <img src="https://i.pinimg.com/originals/32/44/01/324401aa18cc80c55f338dcd4674cb80.gif" height=100px alt="html" style="vertical-align:top;margin:3px">
  <img src="https://i.pinimg.com/originals/08/07/18/080718c3c5f3a56249a2ee3a825221bd.gif" height=100px alt="html" style="vertical-align:top;margin:3px">
@@ -64,7 +64,7 @@
 | *`Soundcloud`*         | [BL \| Soundcloud](https://soundcloud.com/its_lucero)        | -->
 
 # 
-<p align="center">
+<p align="left">
 <a href="https://github.com/13rianlucero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="13rianlucero" height="30" width="40" /></a>
 <a href="https://twitter.com/13rianlucero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="13rianlucero" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/~brian-lucero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="~brian-lucero" height="30" width="40" /></a>
